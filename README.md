@@ -276,7 +276,7 @@ This project is licensed under the MIT License.
 
 👨‍💻 Authors
 Sairaj Deora 
-Vishal Dalimbe  
+Vishal Dalimbe 
 Siddharth Kamble
 
 ⭐ If you find this project useful, consider giving it a star on GitHub.
