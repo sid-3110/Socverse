@@ -60,20 +60,33 @@ def _app_css() -> str:
 def _app_js() -> str:
     return _read(_APP_JS) or _DEFAULT_JS
 
-
 def build_html(snapshot: dict[str, Any], *, height: int = 720) -> str:
     """Assemble the complete, standalone HTML document for the iframe.
 
     Pure function: given a snapshot it returns a string. No Streamlit, no disk
     writes beyond reading cached assets. Safe to call from tests.
+
+    Injects the shared design-system CSS variables (config.theme.css_variables)
+    so socverse_viz.css can reference --sv-* tokens. Falls back gracefully if
+    the theme module is unavailable.
     """
+    try:
+        from config.theme import css_variables
+        tokens = css_variables()
+    except Exception:
+        tokens = ":root{--sv-bg:#0a0e16;--sv-surface:#131a26;--sv-text:#e6edf3;}"
+
     data = json.dumps(snapshot, ensure_ascii=False)
     parts = [
         "<!DOCTYPE html>",
         '<html lang="en"><head><meta charset="utf-8">',
         '<meta name="viewport" content="width=device-width, initial-scale=1">',
         "<style>",
-        "html,body{margin:0;padding:0;height:100%;background:#0b1220;}",
+        tokens,
+        "html,body{margin:0;padding:0;height:100%;"
+        "background:var(--sv-bg,#0a0e16);"
+        "font-family:var(--sv-font,'Inter',system-ui,sans-serif);"
+        "color:var(--sv-text,#e6edf3);}",
         "#socverse-root{position:relative;width:100%;height:" + str(height) + "px;}",
         _app_css(),
         "</style></head><body>",
@@ -87,7 +100,6 @@ def build_html(snapshot: dict[str, Any], *, height: int = 720) -> str:
         "</body></html>",
     ]
     return "\n".join(parts)
-
 
 def render_network(snapshot: dict[str, Any], *, height: int = 720) -> None:
     """Embed the interactive network in the current Streamlit container."""
