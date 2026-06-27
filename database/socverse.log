@@ -1,0 +1,359 @@
+2026-06-27 17:56:12,792 | INFO     | socverse.app | SOCVerse v0.1.0 started
+2026-06-27 17:56:16,477 | INFO     | socverse.app | SOCVerse v0.1.0 started
+2026-06-27 17:56:17,654 | INFO     | socverse.app | SOCVerse v0.1.0 started
+2026-06-27 17:56:18,389 | INFO     | socverse.app | SOCVerse v0.1.0 started
+2026-06-27 17:56:19,090 | INFO     | socverse.app | SOCVerse v0.1.0 started
+2026-06-27 17:56:19,772 | INFO     | socverse.app | SOCVerse v0.1.0 started
+2026-06-27 17:56:20,423 | INFO     | socverse.app | SOCVerse v0.1.0 started
+2026-06-27 17:56:20,974 | INFO     | socverse.app | SOCVerse v0.1.0 started
+2026-06-27 17:56:27,926 | INFO     | socverse.app | SOCVerse v0.1.0 started
+2026-06-27 17:58:01,485 | INFO     | socverse.app | SOCVerse v0.1.0 started
+2026-06-27 17:58:02,578 | INFO     | socverse.app | SOCVerse v0.1.0 started
+2026-06-27 17:58:05,079 | INFO     | socverse.app | SOCVerse v0.1.0 started
+2026-06-27 17:58:06,014 | INFO     | socverse.app | SOCVerse v0.1.0 started
+2026-06-27 17:58:07,464 | INFO     | socverse.app | SOCVerse v0.1.0 started
+2026-06-27 17:58:07,980 | INFO     | socverse.app | SOCVerse v0.1.0 started
+2026-06-27 18:03:43,754 | INFO     | socverse.app | SOCVerse v0.1.0 started
+2026-06-27 18:03:45,446 | INFO     | socverse.app | SOCVerse v0.1.0 started
+2026-06-27 18:03:46,063 | INFO     | socverse.app | SOCVerse v0.1.0 started
+2026-06-27 18:03:46,730 | INFO     | socverse.app | SOCVerse v0.1.0 started
+2026-06-27 18:03:47,396 | INFO     | socverse.app | SOCVerse v0.1.0 started
+2026-06-27 18:03:47,995 | INFO     | socverse.app | SOCVerse v0.1.0 started
+2026-06-27 18:03:48,546 | INFO     | socverse.app | SOCVerse v0.1.0 started
+2026-06-27 18:03:49,181 | INFO     | socverse.app | SOCVerse v0.1.0 started
+2026-06-27 18:03:49,862 | INFO     | socverse.app | SOCVerse v0.1.0 started
+2026-06-27 18:05:54,130 | INFO     | socverse.app | SOCVerse v0.1.0 started
+2026-06-27 18:05:56,075 | INFO     | socverse.app | SOCVerse v0.1.0 started
+2026-06-27 18:05:56,798 | INFO     | socverse.app | SOCVerse v0.1.0 started
+2026-06-27 18:05:57,446 | INFO     | socverse.app | SOCVerse v0.1.0 started
+2026-06-27 18:05:58,046 | INFO     | socverse.app | SOCVerse v0.1.0 started
+2026-06-27 18:05:58,762 | INFO     | socverse.app | SOCVerse v0.1.0 started
+2026-06-27 18:06:00,129 | INFO     | socverse.app | SOCVerse v0.1.0 started
+2026-06-27 18:13:01,618 | INFO     | socverse.packet-engine | packet pkt-83e529 delivered via ['RTR', 'FW', 'SRV']
+2026-06-27 18:13:01,618 | INFO     | socverse.packet-engine | packet pkt-febb3a blocked via ['RTR', 'FW']
+2026-06-27 18:27:45,640 | INFO     | socverse.packet-engine | packet pkt-a7da90 delivered via ['WS-HR-01', 'ACCESS-SW', 'CORE-RTR', 'PERIM-NGFW', 'DC-SRV']
+2026-06-27 18:27:45,640 | INFO     | socverse.packet-engine | packet pkt-8f80b1 blocked via ['WS-HR-01', 'ACCESS-SW', 'CORE-RTR', 'PERIM-NGFW']
+2026-06-27 18:27:45,640 | INFO     | socverse.packet-engine | packet pkt-53efd7 blocked via ['DMZ-WAF']
+2026-06-27 18:29:24,953 | INFO     | socverse.packet-engine | packet pkt-09f53d delivered via ['WS-HR-01', 'ACCESS-SW', 'CORE-RTR', 'PERIM-NGFW', 'DC-SRV']
+2026-06-27 18:29:24,954 | INFO     | socverse.packet-engine | packet pkt-4ec01c blocked via ['WS-HR-01', 'ACCESS-SW', 'CORE-RTR', 'PERIM-NGFW']
+2026-06-27 18:29:24,954 | INFO     | socverse.packet-engine | packet pkt-a601ed blocked via ['DMZ-WAF']
+2026-06-27 18:38:12,419 | INFO     | socverse.packet-engine | packet pkt-3526fb delivered via ['WS-HR-01', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-SRV', 'AD-DC-01']
+2026-06-27 18:38:12,419 | INFO     | socverse.packet-engine | packet pkt-375b1f blocked via ['GUEST-01', 'ACCESS-GUEST', 'CORE-SW', 'CORE-NGFW']
+2026-06-27 18:38:12,419 | INFO     | socverse.packet-engine | packet pkt-dcfb0f blocked via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW']
+2026-06-27 18:38:12,420 | INFO     | socverse.packet-engine | packet pkt-5d180a delivered via ['WS-IT-01', 'ACCESS-IT', 'CORE-SW', 'CORE-NGFW', 'PERIM-NGFW', 'EDGE-RTR', 'ISP-EDGE', 'INTERNET', 'EXT-SVC']
+2026-06-27 18:58:09,827 | INFO     | socverse.packet-engine | packet pkt-a8b586 dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 18:58:09,827 | INFO     | socverse.packet-engine | packet pkt-a11d74 dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 18:58:09,827 | INFO     | socverse.packet-engine | packet pkt-082e0e dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 18:58:09,827 | INFO     | socverse.packet-engine | packet pkt-ada303 dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 18:58:09,828 | INFO     | socverse.packet-engine | packet pkt-25513a dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 18:58:09,828 | INFO     | socverse.packet-engine | packet pkt-275fee delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 18:58:09,828 | INFO     | socverse.packet-engine | packet pkt-6fd6c9 dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 18:58:09,828 | INFO     | socverse.packet-engine | packet pkt-e128d0 dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 18:58:09,829 | INFO     | socverse.packet-engine | packet pkt-194179 dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 18:58:09,829 | INFO     | socverse.packet-engine | packet pkt-65505b dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 18:58:09,829 | INFO     | socverse.packet-engine | packet pkt-aa6d83 dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 18:58:09,829 | INFO     | socverse.packet-engine | packet pkt-ec1a5c delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 18:58:09,829 | INFO     | socverse.packet-engine | packet pkt-c78535 dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 18:58:09,830 | INFO     | socverse.packet-engine | packet pkt-eeac9c dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 18:58:09,830 | INFO     | socverse.packet-engine | packet pkt-b3586e blocked via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW']
+2026-06-27 18:58:09,830 | INFO     | socverse.packet-engine | packet pkt-563857 blocked via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW']
+2026-06-27 18:58:09,830 | INFO     | socverse.packet-engine | packet pkt-cf9be2 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 18:58:09,830 | INFO     | socverse.packet-engine | packet pkt-07d7d0 blocked via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW']
+2026-06-27 18:58:09,830 | INFO     | socverse.packet-engine | packet pkt-76bc0c blocked via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW']
+2026-06-27 18:58:09,831 | INFO     | socverse.packet-engine | packet pkt-2762f8 blocked via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW']
+2026-06-27 18:58:09,831 | INFO     | socverse.packet-engine | packet pkt-ffa74f blocked via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW']
+2026-06-27 18:58:09,831 | INFO     | socverse.packet-engine | packet pkt-dfadae delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SRV', 'APP-01']
+2026-06-27 18:58:09,831 | INFO     | socverse.packet-engine | packet pkt-eecabc delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SRV', 'APP-01']
+2026-06-27 18:58:09,832 | INFO     | socverse.packet-engine | packet pkt-b0dae3 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SRV', 'APP-01']
+2026-06-27 19:17:05,474 | INFO     | socverse.packet-engine | packet pkt-06136f dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:17:05,474 | INFO     | socverse.packet-engine | packet pkt-d50dc0 dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:17:05,474 | INFO     | socverse.packet-engine | packet pkt-fdcbb8 dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:17:05,475 | INFO     | socverse.packet-engine | packet pkt-cbf06e dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:17:05,475 | INFO     | socverse.packet-engine | packet pkt-042f8e dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:17:05,475 | INFO     | socverse.packet-engine | packet pkt-b3614d delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:17:05,475 | INFO     | socverse.packet-engine | packet pkt-c16f2c dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:17:05,475 | INFO     | socverse.packet-engine | packet pkt-dcda64 dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:17:05,476 | INFO     | socverse.packet-engine | packet pkt-5b847d dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:17:05,476 | INFO     | socverse.packet-engine | packet pkt-5dd9cb dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:17:05,476 | INFO     | socverse.packet-engine | packet pkt-609f84 dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:17:05,476 | INFO     | socverse.packet-engine | packet pkt-4d0c85 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:17:05,476 | INFO     | socverse.packet-engine | packet pkt-980bab dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:17:05,477 | INFO     | socverse.packet-engine | packet pkt-152870 dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:17:05,477 | INFO     | socverse.soc.engine | Ingested attack 'Nmap Port Scan': 119 events, 1 alerts
+2026-06-27 19:17:05,477 | INFO     | socverse.packet-engine | packet pkt-d58d6e blocked via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW']
+2026-06-27 19:17:05,477 | INFO     | socverse.packet-engine | packet pkt-583401 blocked via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW']
+2026-06-27 19:17:05,477 | INFO     | socverse.packet-engine | packet pkt-36514b delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:17:05,477 | INFO     | socverse.packet-engine | packet pkt-0f95ac blocked via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW']
+2026-06-27 19:17:05,478 | INFO     | socverse.soc.engine | Ingested attack 'SQL Injection': 34 events, 4 alerts
+2026-06-27 19:17:05,478 | INFO     | socverse.packet-engine | packet pkt-fddb1b blocked via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW']
+2026-06-27 19:17:05,478 | INFO     | socverse.packet-engine | packet pkt-af3bd1 blocked via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW']
+2026-06-27 19:17:05,478 | INFO     | socverse.packet-engine | packet pkt-0e09ae blocked via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW']
+2026-06-27 19:17:05,478 | INFO     | socverse.packet-engine | packet pkt-fc41c7 blocked via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW']
+2026-06-27 19:17:05,478 | INFO     | socverse.packet-engine | packet pkt-decf20 blocked via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW']
+2026-06-27 19:17:05,478 | INFO     | socverse.soc.engine | Ingested attack 'RDP Brute Force': 33 events, 1 alerts
+2026-06-27 19:17:05,479 | INFO     | socverse.packet-engine | packet pkt-2ca82c delivered via ['REMOTE-USER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SRV', 'APP-01']
+2026-06-27 19:17:05,479 | INFO     | socverse.packet-engine | packet pkt-094c86 delivered via ['REMOTE-USER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SRV', 'APP-01']
+2026-06-27 19:17:05,479 | INFO     | socverse.packet-engine | packet pkt-de7c73 delivered via ['REMOTE-USER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SRV', 'APP-01']
+2026-06-27 19:17:05,479 | INFO     | socverse.packet-engine | packet pkt-aba580 delivered via ['REMOTE-USER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SRV', 'APP-01']
+2026-06-27 19:17:05,480 | INFO     | socverse.packet-engine | packet pkt-784dae delivered via ['REMOTE-USER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SRV', 'APP-01']
+2026-06-27 19:17:05,480 | INFO     | socverse.soc.engine | Ingested attack 'SSH Brute Force': 48 events, 1 alerts
+2026-06-27 19:17:05,482 | INFO     | socverse.database.connection | SQLite database ready at :memory:
+2026-06-27 19:17:05,482 | INFO     | socverse.packet-engine | packet pkt-ee5c95 dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:17:05,482 | INFO     | socverse.packet-engine | packet pkt-4c4faf dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:17:05,482 | INFO     | socverse.packet-engine | packet pkt-2ea17e dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:17:05,483 | INFO     | socverse.packet-engine | packet pkt-9a6c07 dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:17:05,483 | INFO     | socverse.packet-engine | packet pkt-805578 dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:17:05,483 | INFO     | socverse.packet-engine | packet pkt-7bf5a4 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:17:05,483 | INFO     | socverse.packet-engine | packet pkt-cb474a dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:17:05,483 | INFO     | socverse.packet-engine | packet pkt-8908f6 dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:17:05,483 | INFO     | socverse.packet-engine | packet pkt-f76695 dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:17:05,484 | INFO     | socverse.packet-engine | packet pkt-0653f4 dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:17:05,484 | INFO     | socverse.packet-engine | packet pkt-fe0504 dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:17:05,484 | INFO     | socverse.packet-engine | packet pkt-b37f34 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:17:05,485 | INFO     | socverse.packet-engine | packet pkt-238b04 dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:17:05,485 | INFO     | socverse.packet-engine | packet pkt-1d449e dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:17:05,486 | INFO     | socverse.soc.engine | Ingested attack 'Nmap Port Scan': 119 events, 1 alerts
+2026-06-27 19:17:05,486 | INFO     | socverse.packet-engine | packet pkt-e63626 blocked via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW']
+2026-06-27 19:17:05,486 | INFO     | socverse.packet-engine | packet pkt-c0845a blocked via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW']
+2026-06-27 19:17:05,486 | INFO     | socverse.packet-engine | packet pkt-96640b delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:17:05,487 | INFO     | socverse.packet-engine | packet pkt-80f4db blocked via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW']
+2026-06-27 19:17:05,487 | INFO     | socverse.soc.engine | Ingested attack 'SQL Injection': 34 events, 4 alerts
+2026-06-27 19:17:05,487 | INFO     | socverse.packet-engine | packet pkt-fbce56 blocked via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW']
+2026-06-27 19:17:05,487 | INFO     | socverse.packet-engine | packet pkt-4c4436 blocked via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW']
+2026-06-27 19:17:05,487 | INFO     | socverse.packet-engine | packet pkt-57ba80 blocked via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW']
+2026-06-27 19:17:05,488 | INFO     | socverse.packet-engine | packet pkt-fb45b0 blocked via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW']
+2026-06-27 19:17:05,488 | INFO     | socverse.packet-engine | packet pkt-ea88a1 blocked via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW']
+2026-06-27 19:17:05,488 | INFO     | socverse.soc.engine | Ingested attack 'RDP Brute Force': 33 events, 1 alerts
+2026-06-27 19:17:05,488 | INFO     | socverse.packet-engine | packet pkt-3e8a86 delivered via ['REMOTE-USER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SRV', 'APP-01']
+2026-06-27 19:17:05,489 | INFO     | socverse.packet-engine | packet pkt-2e3216 delivered via ['REMOTE-USER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SRV', 'APP-01']
+2026-06-27 19:17:05,489 | INFO     | socverse.packet-engine | packet pkt-a523c1 delivered via ['REMOTE-USER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SRV', 'APP-01']
+2026-06-27 19:17:05,489 | INFO     | socverse.packet-engine | packet pkt-6a94d7 delivered via ['REMOTE-USER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SRV', 'APP-01']
+2026-06-27 19:17:05,489 | INFO     | socverse.packet-engine | packet pkt-f797a1 delivered via ['REMOTE-USER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SRV', 'APP-01']
+2026-06-27 19:17:05,490 | INFO     | socverse.soc.engine | Ingested attack 'SSH Brute Force': 48 events, 1 alerts
+2026-06-27 19:20:38,431 | INFO     | socverse.ui.state | Built enterprise topology with 33 devices
+2026-06-27 19:20:38,431 | INFO     | socverse.packet-engine | packet pkt-e76736 dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:20:38,432 | INFO     | socverse.packet-engine | packet pkt-42369e dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:20:38,432 | INFO     | socverse.packet-engine | packet pkt-61ddd8 dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:20:38,432 | INFO     | socverse.packet-engine | packet pkt-4eafb1 dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:20:38,432 | INFO     | socverse.packet-engine | packet pkt-483ec6 dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:20:38,433 | INFO     | socverse.packet-engine | packet pkt-22509e delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:20:38,433 | INFO     | socverse.packet-engine | packet pkt-5288c6 dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:20:38,433 | INFO     | socverse.packet-engine | packet pkt-6d6882 dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:20:38,433 | INFO     | socverse.packet-engine | packet pkt-36ab6b dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:20:38,433 | INFO     | socverse.packet-engine | packet pkt-1d9d45 dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:20:38,433 | INFO     | socverse.packet-engine | packet pkt-75923a dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:20:38,434 | INFO     | socverse.packet-engine | packet pkt-b25c22 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:20:38,434 | INFO     | socverse.packet-engine | packet pkt-0fbb7d dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:20:38,434 | INFO     | socverse.packet-engine | packet pkt-7c81a0 dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:20:38,434 | INFO     | socverse.soc.engine | Ingested attack 'Nmap Port Scan': 119 events, 1 alerts
+2026-06-27 19:20:38,434 | INFO     | socverse.ui.state | UI ran nmap (ATTACKER -> WEB-01): 1 alert(s)
+2026-06-27 19:24:57,736 | INFO     | socverse.app | SOCVerse v0.1.0 started
+2026-06-27 19:25:04,655 | INFO     | socverse.app | SOCVerse v0.1.0 started
+2026-06-27 19:25:05,982 | INFO     | socverse.app | SOCVerse v0.1.0 started
+2026-06-27 19:25:06,632 | INFO     | socverse.app | SOCVerse v0.1.0 started
+2026-06-27 19:25:07,414 | INFO     | socverse.app | SOCVerse v0.1.0 started
+2026-06-27 19:25:08,914 | INFO     | socverse.app | SOCVerse v0.1.0 started
+2026-06-27 19:25:09,581 | INFO     | socverse.app | SOCVerse v0.1.0 started
+2026-06-27 19:25:10,177 | INFO     | socverse.app | SOCVerse v0.1.0 started
+2026-06-27 19:26:45,942 | INFO     | socverse.ui.state | Built enterprise topology with 33 devices
+2026-06-27 19:26:45,943 | INFO     | socverse.ui.state | Initialized SOCVerse application state
+2026-06-27 19:27:36,132 | INFO     | socverse.packet-engine | packet pkt-693a6b blocked via ['DMZ-WAF']
+2026-06-27 19:27:36,134 | INFO     | socverse.packet-engine | packet pkt-3c36bb blocked via ['DMZ-WAF']
+2026-06-27 19:27:36,137 | INFO     | socverse.packet-engine | packet pkt-4b434a dropped via ['DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW']
+2026-06-27 19:27:36,138 | INFO     | socverse.packet-engine | packet pkt-657f50 blocked via ['DMZ-WAF']
+2026-06-27 19:27:36,139 | INFO     | socverse.soc.engine | Ingested attack 'SQL Injection': 43 events, 3 alerts
+2026-06-27 19:27:36,139 | INFO     | socverse.ui.state | UI ran sqli (DMZ-WAF -> DMZ-WAF): 3 alert(s)
+2026-06-27 19:29:51,222 | INFO     | socverse.packet-engine | packet pkt-29bd98 blocked via ['DMZ-WAF']
+2026-06-27 19:29:51,224 | INFO     | socverse.packet-engine | packet pkt-30b41a blocked via ['DMZ-WAF']
+2026-06-27 19:29:51,227 | INFO     | socverse.packet-engine | packet pkt-7122eb dropped via ['DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW']
+2026-06-27 19:29:51,227 | INFO     | socverse.packet-engine | packet pkt-76c193 blocked via ['DMZ-WAF']
+2026-06-27 19:29:51,228 | INFO     | socverse.soc.engine | Ingested attack 'SQL Injection': 43 events, 3 alerts
+2026-06-27 19:29:51,228 | INFO     | socverse.ui.state | UI ran sqli (DMZ-WAF -> DMZ-WAF): 3 alert(s)
+2026-06-27 19:30:03,486 | INFO     | socverse.packet-engine | packet pkt-3aac7c dropped via ['ACCESS-GUEST', 'CORE-SW', 'CORE-NGFW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW']
+2026-06-27 19:30:03,488 | INFO     | socverse.packet-engine | packet pkt-a2893e dropped via ['ACCESS-GUEST', 'CORE-SW', 'CORE-NGFW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW']
+2026-06-27 19:30:03,490 | INFO     | socverse.packet-engine | packet pkt-32d902 dropped via ['ACCESS-GUEST', 'CORE-SW', 'CORE-NGFW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW']
+2026-06-27 19:30:03,493 | INFO     | socverse.packet-engine | packet pkt-b21410 dropped via ['ACCESS-GUEST', 'CORE-SW', 'CORE-NGFW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW']
+2026-06-27 19:30:03,495 | INFO     | socverse.packet-engine | packet pkt-b177ab dropped via ['ACCESS-GUEST', 'CORE-SW', 'CORE-NGFW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW']
+2026-06-27 19:30:03,496 | INFO     | socverse.packet-engine | packet pkt-92b817 dropped via ['ACCESS-GUEST', 'CORE-SW', 'CORE-NGFW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW']
+2026-06-27 19:30:03,498 | INFO     | socverse.packet-engine | packet pkt-7dca62 dropped via ['ACCESS-GUEST', 'CORE-SW', 'CORE-NGFW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW']
+2026-06-27 19:30:03,500 | INFO     | socverse.packet-engine | packet pkt-333df0 dropped via ['ACCESS-GUEST', 'CORE-SW', 'CORE-NGFW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW']
+2026-06-27 19:30:03,502 | INFO     | socverse.packet-engine | packet pkt-070dce dropped via ['ACCESS-GUEST', 'CORE-SW', 'CORE-NGFW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW']
+2026-06-27 19:30:03,503 | INFO     | socverse.packet-engine | packet pkt-685e13 dropped via ['ACCESS-GUEST', 'CORE-SW', 'CORE-NGFW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW']
+2026-06-27 19:30:03,505 | INFO     | socverse.packet-engine | packet pkt-0a793d dropped via ['ACCESS-GUEST', 'CORE-SW', 'CORE-NGFW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW']
+2026-06-27 19:30:03,506 | INFO     | socverse.packet-engine | packet pkt-5fa757 dropped via ['ACCESS-GUEST', 'CORE-SW', 'CORE-NGFW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW']
+2026-06-27 19:30:03,508 | INFO     | socverse.packet-engine | packet pkt-199054 dropped via ['ACCESS-GUEST', 'CORE-SW', 'CORE-NGFW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW']
+2026-06-27 19:30:03,510 | INFO     | socverse.packet-engine | packet pkt-25bc2a dropped via ['ACCESS-GUEST', 'CORE-SW', 'CORE-NGFW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW']
+2026-06-27 19:30:03,511 | INFO     | socverse.soc.engine | Ingested attack 'Nmap Port Scan': 425 events, 1 alerts
+2026-06-27 19:30:03,512 | INFO     | socverse.ui.state | UI ran nmap (ACCESS-GUEST -> DMZ-WAF): 1 alert(s)
+2026-06-27 19:33:01,321 | INFO     | socverse.ui.state | Built enterprise topology with 33 devices
+2026-06-27 19:33:01,322 | INFO     | socverse.ui.state | Initialized SOCVerse application state
+2026-06-27 19:33:58,021 | INFO     | socverse.packet-engine | packet pkt-1a11bc dropped via ['WS-HR-01', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW']
+2026-06-27 19:33:58,025 | INFO     | socverse.packet-engine | packet pkt-03e452 dropped via ['WS-HR-01', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW']
+2026-06-27 19:33:58,027 | INFO     | socverse.packet-engine | packet pkt-cce89c dropped via ['WS-HR-01', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW']
+2026-06-27 19:33:58,030 | INFO     | socverse.packet-engine | packet pkt-5592a7 dropped via ['WS-HR-01', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW']
+2026-06-27 19:33:58,032 | INFO     | socverse.packet-engine | packet pkt-c9b4a5 dropped via ['WS-HR-01', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW']
+2026-06-27 19:33:58,034 | INFO     | socverse.packet-engine | packet pkt-f41c47 dropped via ['WS-HR-01', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW']
+2026-06-27 19:33:58,037 | INFO     | socverse.packet-engine | packet pkt-e728dd dropped via ['WS-HR-01', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW']
+2026-06-27 19:33:58,039 | INFO     | socverse.packet-engine | packet pkt-c568fc dropped via ['WS-HR-01', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW']
+2026-06-27 19:33:58,041 | INFO     | socverse.packet-engine | packet pkt-6ccbbd dropped via ['WS-HR-01', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW']
+2026-06-27 19:33:58,044 | INFO     | socverse.packet-engine | packet pkt-d060de dropped via ['WS-HR-01', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW']
+2026-06-27 19:33:58,046 | INFO     | socverse.packet-engine | packet pkt-1faecd dropped via ['WS-HR-01', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW']
+2026-06-27 19:33:58,048 | INFO     | socverse.packet-engine | packet pkt-b4ef93 dropped via ['WS-HR-01', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW']
+2026-06-27 19:33:58,049 | INFO     | socverse.packet-engine | packet pkt-070954 dropped via ['WS-HR-01', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW']
+2026-06-27 19:33:58,050 | INFO     | socverse.packet-engine | packet pkt-461a6f dropped via ['WS-HR-01', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW', 'CORE-NGFW', 'ACCESS-HR', 'CORE-SW']
+2026-06-27 19:33:58,051 | INFO     | socverse.soc.engine | Ingested attack 'Nmap Port Scan': 425 events, 1 alerts
+2026-06-27 19:33:58,051 | INFO     | socverse.ui.state | UI ran nmap (WS-HR-01 -> ACCESS-HR): 1 alert(s)
+2026-06-27 19:43:17,254 | INFO     | socverse.packet-engine | packet pkt-9e2e46 blocked via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW']
+2026-06-27 19:43:17,257 | INFO     | socverse.packet-engine | packet pkt-6d011e blocked via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW']
+2026-06-27 19:43:17,258 | INFO     | socverse.packet-engine | packet pkt-6992b8 blocked via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW']
+2026-06-27 19:43:17,259 | INFO     | socverse.packet-engine | packet pkt-1311c7 blocked via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW']
+2026-06-27 19:43:17,260 | INFO     | socverse.packet-engine | packet pkt-1535a8 blocked via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW']
+2026-06-27 19:43:17,260 | INFO     | socverse.soc.engine | Ingested attack 'RDP Brute Force': 33 events, 1 alerts
+2026-06-27 19:43:17,261 | INFO     | socverse.ui.state | UI ran rdp_brute (ATTACKER -> CLOUD-VPC): 1 alert(s)
+2026-06-27 19:45:44,703 | INFO     | socverse.ui.state | Built enterprise topology with 33 devices
+2026-06-27 19:45:44,704 | INFO     | socverse.packet-engine | packet pkt-780e1f dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:45:44,704 | INFO     | socverse.packet-engine | packet pkt-8dd245 dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:45:44,704 | INFO     | socverse.packet-engine | packet pkt-122535 dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:45:44,704 | INFO     | socverse.packet-engine | packet pkt-3954cc dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:45:44,705 | INFO     | socverse.packet-engine | packet pkt-9970c8 dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:45:44,705 | INFO     | socverse.packet-engine | packet pkt-40fe3e delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:45:44,705 | INFO     | socverse.packet-engine | packet pkt-0268e6 dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:45:44,705 | INFO     | socverse.packet-engine | packet pkt-f9df3c dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:45:44,705 | INFO     | socverse.packet-engine | packet pkt-147e76 dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:45:44,705 | INFO     | socverse.packet-engine | packet pkt-3e55c0 dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:45:44,706 | INFO     | socverse.packet-engine | packet pkt-d56fde dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:45:44,706 | INFO     | socverse.packet-engine | packet pkt-39a68e delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:45:44,706 | INFO     | socverse.packet-engine | packet pkt-1c91ee dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:45:44,706 | INFO     | socverse.packet-engine | packet pkt-8d7d95 dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:45:44,706 | INFO     | socverse.soc.engine | Ingested attack 'Nmap Port Scan': 119 events, 1 alerts
+2026-06-27 19:45:44,706 | INFO     | socverse.ui.state | UI ran nmap (ATTACKER -> WEB-01): 1 alert(s)
+2026-06-27 19:48:57,395 | INFO     | socverse.ui.state | Built enterprise topology with 33 devices
+2026-06-27 19:48:57,396 | INFO     | socverse.packet-engine | packet pkt-6a2add dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:48:57,396 | INFO     | socverse.packet-engine | packet pkt-b986a5 dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:48:57,396 | INFO     | socverse.packet-engine | packet pkt-01f991 dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:48:57,396 | INFO     | socverse.packet-engine | packet pkt-45376e dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:48:57,397 | INFO     | socverse.packet-engine | packet pkt-9f29d6 dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:48:57,397 | INFO     | socverse.packet-engine | packet pkt-2bf377 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:48:57,397 | INFO     | socverse.packet-engine | packet pkt-544e7c dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:48:57,397 | INFO     | socverse.packet-engine | packet pkt-b2dc55 dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:48:57,397 | INFO     | socverse.packet-engine | packet pkt-86fdc3 dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:48:57,398 | INFO     | socverse.packet-engine | packet pkt-c4f261 dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:48:57,398 | INFO     | socverse.packet-engine | packet pkt-f5c185 dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:48:57,398 | INFO     | socverse.packet-engine | packet pkt-2147c5 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:48:57,398 | INFO     | socverse.packet-engine | packet pkt-a9c019 dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:48:57,398 | INFO     | socverse.packet-engine | packet pkt-942541 dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 19:48:57,398 | INFO     | socverse.soc.engine | Ingested attack 'Nmap Port Scan': 119 events, 1 alerts
+2026-06-27 19:48:57,398 | INFO     | socverse.ui.state | UI ran nmap (ATTACKER -> WEB-01): 1 alert(s)
+2026-06-27 20:03:52,816 | INFO     | socverse.ui.state | Built enterprise topology with 33 devices
+2026-06-27 20:03:52,817 | INFO     | socverse.packet-engine | packet pkt-71af82 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:03:52,817 | INFO     | socverse.packet-engine | packet pkt-b1f5e9 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:03:52,817 | INFO     | socverse.packet-engine | packet pkt-00a252 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:03:52,817 | INFO     | socverse.packet-engine | packet pkt-d4576d delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:03:52,817 | INFO     | socverse.packet-engine | packet pkt-2349ac delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:03:52,818 | INFO     | socverse.packet-engine | packet pkt-2ba560 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:03:52,818 | INFO     | socverse.packet-engine | packet pkt-47e8dd delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:03:52,818 | INFO     | socverse.packet-engine | packet pkt-4ff430 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:03:52,818 | INFO     | socverse.packet-engine | packet pkt-fa9cc1 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:03:52,818 | INFO     | socverse.packet-engine | packet pkt-3920a1 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:03:52,819 | INFO     | socverse.packet-engine | packet pkt-5b1689 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:03:52,819 | INFO     | socverse.packet-engine | packet pkt-2b7855 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:03:52,819 | INFO     | socverse.packet-engine | packet pkt-915891 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:03:52,819 | INFO     | socverse.packet-engine | packet pkt-bbd820 blocked via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW']
+2026-06-27 20:03:52,819 | INFO     | socverse.soc.engine | Ingested attack 'Nmap Port Scan': 127 events, 1 alerts
+2026-06-27 20:03:52,819 | INFO     | socverse.ui.state | UI ran nmap (ATTACKER -> WS-SOC-01): 1 alert(s)
+2026-06-27 20:05:43,020 | INFO     | socverse.ui.state | Built enterprise topology with 33 devices
+2026-06-27 20:05:43,021 | INFO     | socverse.ui.state | Initialized SOCVerse application state
+2026-06-27 20:13:14,467 | INFO     | socverse.ui.state | Built enterprise topology with 33 devices
+2026-06-27 20:19:26,928 | INFO     | socverse.ui.state | Built enterprise topology with 33 devices
+2026-06-27 20:19:26,929 | INFO     | socverse.packet-engine | packet pkt-4c029d delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:19:26,929 | INFO     | socverse.packet-engine | packet pkt-e44ce7 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:19:26,930 | INFO     | socverse.packet-engine | packet pkt-e6dc30 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:19:26,930 | INFO     | socverse.packet-engine | packet pkt-6b6156 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:19:26,930 | INFO     | socverse.packet-engine | packet pkt-a9ef6d delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:19:26,930 | INFO     | socverse.packet-engine | packet pkt-65b836 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:19:26,930 | INFO     | socverse.packet-engine | packet pkt-6f201a delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:19:26,931 | INFO     | socverse.packet-engine | packet pkt-0f9596 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:19:26,931 | INFO     | socverse.packet-engine | packet pkt-7be448 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:19:26,931 | INFO     | socverse.packet-engine | packet pkt-63c829 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:19:26,931 | INFO     | socverse.packet-engine | packet pkt-2093e1 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:19:26,931 | INFO     | socverse.packet-engine | packet pkt-d2d055 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:19:26,932 | INFO     | socverse.packet-engine | packet pkt-884233 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:19:26,932 | INFO     | socverse.packet-engine | packet pkt-31ad01 blocked via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW']
+2026-06-27 20:19:26,932 | INFO     | socverse.soc.engine | Ingested attack 'Nmap Port Scan': 127 events, 1 alerts
+2026-06-27 20:19:26,932 | INFO     | socverse.ui.state | UI ran nmap (ATTACKER -> WS-SOC-01): 1 alert(s)
+2026-06-27 20:29:19,663 | INFO     | socverse.ui.state | Built enterprise topology with 33 devices
+2026-06-27 20:29:19,664 | INFO     | socverse.packet-engine | packet pkt-0e61db delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:29:19,664 | INFO     | socverse.packet-engine | packet pkt-cbc2cb delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:29:19,664 | INFO     | socverse.packet-engine | packet pkt-6f101c delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:29:19,664 | INFO     | socverse.packet-engine | packet pkt-3cbfcc delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:29:19,665 | INFO     | socverse.packet-engine | packet pkt-aa9907 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:29:19,665 | INFO     | socverse.packet-engine | packet pkt-39970c delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:29:19,665 | INFO     | socverse.packet-engine | packet pkt-049391 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:29:19,665 | INFO     | socverse.packet-engine | packet pkt-482ec4 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:29:19,665 | INFO     | socverse.packet-engine | packet pkt-90ef1d delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:29:19,666 | INFO     | socverse.packet-engine | packet pkt-b81572 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:29:19,666 | INFO     | socverse.packet-engine | packet pkt-c899b7 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:29:19,666 | INFO     | socverse.packet-engine | packet pkt-524dd6 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:29:19,666 | INFO     | socverse.packet-engine | packet pkt-9f5780 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:29:19,666 | INFO     | socverse.packet-engine | packet pkt-8ec4ee blocked via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW']
+2026-06-27 20:29:19,667 | INFO     | socverse.soc.engine | Ingested attack 'Nmap Port Scan': 127 events, 1 alerts
+2026-06-27 20:29:19,667 | INFO     | socverse.ui.state | UI ran nmap (ATTACKER -> WS-SOC-01): 1 alert(s)
+2026-06-27 20:33:03,134 | INFO     | socverse.ui.state | Built enterprise topology with 33 devices
+2026-06-27 20:33:03,135 | INFO     | socverse.packet-engine | packet pkt-cf611c delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:33:03,136 | INFO     | socverse.packet-engine | packet pkt-ba61ca delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:33:03,136 | INFO     | socverse.packet-engine | packet pkt-bdb059 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:33:03,136 | INFO     | socverse.packet-engine | packet pkt-c3b5cc delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:33:03,136 | INFO     | socverse.packet-engine | packet pkt-34bc01 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:33:03,137 | INFO     | socverse.packet-engine | packet pkt-cac979 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:33:03,137 | INFO     | socverse.packet-engine | packet pkt-4dc6df delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:33:03,137 | INFO     | socverse.packet-engine | packet pkt-1e9eac delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:33:03,137 | INFO     | socverse.packet-engine | packet pkt-cb44ad delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:33:03,137 | INFO     | socverse.packet-engine | packet pkt-1b81a2 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:33:03,138 | INFO     | socverse.packet-engine | packet pkt-9f625c delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:33:03,138 | INFO     | socverse.packet-engine | packet pkt-078841 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:33:03,138 | INFO     | socverse.packet-engine | packet pkt-765431 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:33:03,138 | INFO     | socverse.packet-engine | packet pkt-3450fa blocked via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW']
+2026-06-27 20:33:03,138 | INFO     | socverse.soc.engine | Ingested attack 'Nmap Port Scan': 127 events, 1 alerts
+2026-06-27 20:33:03,138 | INFO     | socverse.ui.state | UI ran nmap (ATTACKER -> WS-SOC-01): 1 alert(s)
+2026-06-27 20:42:23,237 | INFO     | socverse.ui.state | Built enterprise topology with 33 devices
+2026-06-27 20:42:23,238 | INFO     | socverse.packet-engine | packet pkt-962fff delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:42:23,238 | INFO     | socverse.packet-engine | packet pkt-c360e4 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:42:23,238 | INFO     | socverse.packet-engine | packet pkt-fa9618 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:42:23,238 | INFO     | socverse.packet-engine | packet pkt-1f24a2 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:42:23,239 | INFO     | socverse.packet-engine | packet pkt-6137ea delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:42:23,239 | INFO     | socverse.packet-engine | packet pkt-f49fc4 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:42:23,239 | INFO     | socverse.packet-engine | packet pkt-c17c32 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:42:23,239 | INFO     | socverse.packet-engine | packet pkt-b18848 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:42:23,239 | INFO     | socverse.packet-engine | packet pkt-a7167d delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:42:23,240 | INFO     | socverse.packet-engine | packet pkt-816ff9 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:42:23,240 | INFO     | socverse.packet-engine | packet pkt-ac429c delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:42:23,240 | INFO     | socverse.packet-engine | packet pkt-869174 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:42:23,240 | INFO     | socverse.packet-engine | packet pkt-3b8101 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:42:23,240 | INFO     | socverse.packet-engine | packet pkt-08667b blocked via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW']
+2026-06-27 20:42:23,240 | INFO     | socverse.soc.engine | Ingested attack 'Nmap Port Scan': 127 events, 1 alerts
+2026-06-27 20:42:23,240 | INFO     | socverse.ui.state | UI ran nmap (ATTACKER -> WS-SOC-01): 1 alert(s)
+2026-06-27 20:43:05,585 | INFO     | socverse.ui.state | Built enterprise topology with 33 devices
+2026-06-27 20:43:05,586 | INFO     | socverse.ui.state | Initialized SOCVerse application state
+2026-06-27 20:43:30,880 | INFO     | socverse.packet-engine | packet pkt-df0343 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:43:30,883 | INFO     | socverse.packet-engine | packet pkt-232ca5 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:43:30,884 | INFO     | socverse.packet-engine | packet pkt-b23536 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:43:30,885 | INFO     | socverse.packet-engine | packet pkt-62fe6f delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:43:30,887 | INFO     | socverse.packet-engine | packet pkt-89ea1a delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:43:30,888 | INFO     | socverse.packet-engine | packet pkt-a2878d delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:43:30,889 | INFO     | socverse.packet-engine | packet pkt-3a4814 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:43:30,889 | INFO     | socverse.packet-engine | packet pkt-e34685 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:43:30,890 | INFO     | socverse.packet-engine | packet pkt-df4359 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:43:30,892 | INFO     | socverse.packet-engine | packet pkt-5ecd29 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:43:30,892 | INFO     | socverse.packet-engine | packet pkt-e85bf6 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:43:30,893 | INFO     | socverse.packet-engine | packet pkt-092d1d delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:43:30,894 | INFO     | socverse.packet-engine | packet pkt-7da8c3 delivered via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'CORE-NGFW', 'ACCESS-SOC', 'WS-SOC-01']
+2026-06-27 20:43:30,894 | INFO     | socverse.packet-engine | packet pkt-917dee blocked via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW']
+2026-06-27 20:43:30,895 | INFO     | socverse.soc.engine | Ingested attack 'Nmap Port Scan': 127 events, 1 alerts
+2026-06-27 20:43:30,895 | INFO     | socverse.ui.state | UI ran nmap (ATTACKER -> WS-SOC-01): 1 alert(s)
+2026-06-27 20:44:07,761 | INFO     | socverse.packet-engine | packet pkt-5fae9d dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 20:44:07,763 | INFO     | socverse.packet-engine | packet pkt-587370 dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 20:44:07,764 | INFO     | socverse.packet-engine | packet pkt-8a9288 dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 20:44:07,765 | INFO     | socverse.packet-engine | packet pkt-4096dd dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 20:44:07,765 | INFO     | socverse.packet-engine | packet pkt-ab4401 dropped via ['ATTACKER', 'INTERNET', 'ISP-EDGE', 'EDGE-RTR', 'PERIM-NGFW', 'DMZ-WAF', 'DMZ-SW', 'WEB-01']
+2026-06-27 20:44:07,766 | INFO     | socverse.soc.engine | Ingested attack 'RDP Brute Force': 48 events, 1 alerts
+2026-06-27 20:44:07,766 | INFO     | socverse.ui.state | UI ran rdp_brute (ATTACKER -> WEB-01): 1 alert(s)
